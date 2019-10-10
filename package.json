@@ -1,0 +1,22 @@
+{
+  "name": "node-weather",
+  "version": "1.0.0",
+  "description": "This is a node project for get weather data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubofwyh/Node-Weather.git"
+  },
+  "author": "WangYuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubofwyh/Node-Weather/issues"
+  },
+  "homepage": "https://github.com/githubofwyh/Node-Weather#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
